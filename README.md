@@ -1,8 +1,8 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
 
-Date: 
-Developed by: G Chethan Kumar
-Reg No: 212222240022
+#### Date: 
+#### Developed by: G Chethan Kumar
+#### Reg No: 212222240022
 
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
