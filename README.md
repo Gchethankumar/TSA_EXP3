@@ -61,7 +61,7 @@ plt.show()
 ```
 ### OUTPUT:
 
-![Uploading Screenshot 2024-09-13 092857.png…]()
+![Screenshot 2024-09-13 092857](https://github.com/user-attachments/assets/6a2072a1-d4aa-4f59-9597-96a4ac7bfa38)
 
 ### RESULT:
 Thus we have successfully implemented the auto correlation function in python.
